@@ -6,7 +6,7 @@ Challenge LiterAlura _ ALURA ONE T6 _ Catálogo de Livros
 
 [![My Skills](https://skillicons.dev/icons?i=java,postgres,spring,idea,hibernate&theme=light)](https://skillicons.dev)
 
-## :books: LiterAlura 
+## 📚 LiterAlura 
 Como utilizar: <br>
 1. Baixe o projeto java<br>
 2. implemente o Gson<br>
